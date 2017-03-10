@@ -1,0 +1,53 @@
+<article id="123"> 
+  <author>Tom Myer</author> 
+  <headline>Creating an XML-powered CMS</headline> 
+  <description>This article will show you how to create an 
+    XML-powered content management system</description> 
+  <pubdate>2004-01-20</pubdate> 
+  <keywords>XML CMS</keywords> 
+ </article>
+
+ An example of Keywords search engine set up and schema for article placement in document type definitions (DTDs) for CMS.
+
+ Readability by browsers...
+
+ here is next version:
+
+ <article id="123"> 
+  https://www.sitepoint.com/really-good-introduction-xml/
+  		(site to continue learning)
+
+
+  <author>Tom Myer</author> 
+  <headline>Creating an XML-powered CMS</headline> 
+  <description>This article will show you how to create an 
+    XML-powered content management system</description> 
+  <pubdate>2004-01-20</pubdate> 
+  <status>live</status> 
+  <keywords>XML CMS</keywords> 
+  <body>[CDATA[ 
+    <h1>Creating an XML-powered CMS</h1> 
+    <p>In this article...</p> 
+  ]]</body> 
+ </article>
+
+ ***************************************************
+
+ XSLT stands for Extensible Stylesheet Language Transformations
+ 		 It is both a style sheet specification and a kind of programming language that allows you to transform an XML document into the format of your choice: 
+
+XPath is a language for locating and processing nodes in an XML document. Because each XML 		document is, by definition, a hierarchical structure, it becomes possible to navigate 		this structure in a logical, formal way (i.e. by following a path).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
